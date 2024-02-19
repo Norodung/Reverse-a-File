@@ -1,0 +1,7 @@
+Work Cited
+
+check_num_args:
+https://pubs.opengroup.org/onlinepubs/009696799/functions/stat.html
+
+segmentation fault error
+https://datatrained.com/post/segmentation-fault-in-c/#:~:text=A%20Segmentation%20Fault%20in%20C,not%20been%20allocated%20to%20it.
